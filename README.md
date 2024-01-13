@@ -9,7 +9,7 @@
 
 - 💼 Have been working for **WB GROUP, Peersoft**
 
-- 📫 How to reach me **jaskulskim.gdynia@gmail.com**
+- 📫Reach me by **jaskulskim.gdynia@gmail.com**
 
 - 🎷 My hobbies are **Cooking, Sport, Music, Piano**
 
