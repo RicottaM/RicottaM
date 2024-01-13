@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18561
-Fork on GitHub
-5527
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Michał Jaskulski</h1>
 <h3 align="center">Frontend Software Developer</h3>
 
