@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jaskulskim.gdynia@gmail.com**
 
-- 🎷 Hobbbies **Cooking, Sport, Music, Piano**
+- 🎷 My hobbies are **Cooking, Sport, Music, Piano**
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
