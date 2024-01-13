@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Michał Jaskulski</h1>
 <h3 align="center">Frontend Software Developer</h3>
 
-- 🔭 I’m currently working on **Software that report and supervises envelope machines**
+- 🔭 I’m currently working on **Software supervising envelope machines**
 
 - 🌱 I’m currently learning **Sass CSS**
 
-- 👯 I’m looking to collaborate on **Angular, NativeScript**
+- 🔎 I'm looking forward to learn **Anything!**
 
-- 💼 Have been working at **WB GROUP, Peersoft**
+- 💼 Have been working for **WB GROUP, Peersoft**
 
 - 📫 How to reach me **jaskulskim.gdynia@gmail.com**
 
-- ⚡ Fun fact **Im also a... wonderful cook!**
+- 🎷 Hobbbies **Cooking, Sport, Music, Piano**
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
