@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Software supervising envelope machines**
 
-- 🌱 I’m currently learning **Sass CSS**
+- 🌱 I’m currently learning **Sass SCSS**
 
 - 🔎 I'm looking forward to learn **Anything!**
 
