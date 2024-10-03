@@ -19,8 +19,7 @@
 </p>
 
 <h3 align="left">Strongest Skills:</h3>
-<p align="left">
-
+<p align="left">  
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative.dev" width="40" height="40"/>
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
