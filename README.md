@@ -50,7 +50,7 @@
 
 <h3 align="left">💼 Professional Experience</h3>
 
-#### **Shiplex (via Jit Team)** | *Junior Frontend Developer*
+#### **JIT Team** | *Junior Frontend Developer*
 🗓️ *09/2025 - Present*
 > Focused on modernizing a legacy application and implementing robust UI features.
 - Modernizing the codebase using **React**, **TypeScript**, and **Tailwind CSS**.
