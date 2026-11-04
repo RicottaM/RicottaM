@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Software Developer</h3>
 
 <p align="center">
-  <em>Passionate Full Stack Developer with 2 years of commercial experience building efficient and scalable solutions.<br>
+  <em>Passionate Full Stack Developer with 3 years of commercial experience building efficient and scalable solutions.<br>
   I value collaboration with ambitious teams and continuous learning. Currently pursuing a Bachelor's degree in Computer Science at Gdańsk University of Technology.</em>
 </p>
 
